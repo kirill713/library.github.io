@@ -1,0 +1,24 @@
+{
+  "name": "Электронная библиотека для школьников",
+  "short_name": "Библиотека",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f4",
+  "theme_color": "#333",
+  "description": "Электронная библиотека для школьников предоставляет доступ к книгам для учащихся.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ru",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}
